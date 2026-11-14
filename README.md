@@ -37,6 +37,7 @@ contribution graph. The links above go to the commit history.
 
 | Project | Description |
 |---|---|
+| [**Lecture Notebook**](https://github.com/sophialiuhk2007/lecture-notebook) | A notebook for math and statistics lectures that runs in the browser: live math as you type, theorem and definition boxes, handwriting, PDF readings with comments, study mode and flashcards, export to PDF or LaTeX. [Open it →](https://sophialiuhk2007.github.io/lecture-notebook/) |
 | [**VeriTrust Issuer Portal**](https://github.com/sophialiuhk2007/credo-project-v2) | Verifiable-credentials platform built on Credo: template-driven SD-JWT issuance (OpenID4VCI), selective disclosure, OpenID4VP verification and Apple Wallet passes |
 | [**VeriTrust Wallet**](https://github.com/sophialiuhk2007/AwesomeProject) | React Native holder app for VeriTrust, on the App Store |
 | [**Harvard A-grade cap & enrollment**](https://github.com/sophialiuhk2007/hodp-grade-cap-enrollment) | Harvard Open Data Project analysis of whether the "20% + 4" A-grade cap changed course enrollment |
