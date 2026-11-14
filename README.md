@@ -10,6 +10,15 @@ I study **Computer Science, Mathematics and Statistics at Harvard**. I'm interes
   cell-sorting simulations and learn the adhesion energy matrix that produces a target multicellular
   pattern. [`autodiff-adhesion-patterning`](https://github.com/sophialiuhk2007/autodiff-adhesion-patterning)
   is a limited public preview of this work.
+- **RG flow matching for disordered protein regions.** Flow matching with a renormalization-group
+  (coarse-to-fine) structure for long intrinsically disordered protein regions: train on short regions,
+  generate long ones. *(private)*
+- **Coarse-to-fine diffusion for text (CS 2243 team project).** We replicate Bayesian
+  information-restricted diffusion (BIRD) on MNIST and CelebA64, and test whether renormalization-group
+  style generation works for text. *(private)*
+- **Reader-Weighted Rounding (CS 2420 team project).** A calibration-free rounding rule for 3-bit LLM
+  weights that keeps an existing quantization grid and only chooses floor or ceiling for each weight.
+  *(private)*
 
 Most of my research code is in private lab repositories or tied to manuscripts in preparation, so my
 contribution graph shows only part of my work. I'm happy to share more on request.
